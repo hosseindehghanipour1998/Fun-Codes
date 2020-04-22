@@ -38,9 +38,7 @@ def writeToFile(fileName,arrayList):
 def run():
     # C:\Users\hosse\Desktop 
     fileName ="C:\\Users\\hosse\\Desktop\\Contacts"
-    print("Hello")
     content = openAndReturnContents(fileName)
-    print("World")
     processedData = convertData(content)
     writeToFile("ContactInTextFile" ,processedData )
     

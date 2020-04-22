@@ -1,0 +1,804 @@
+Name: FN:Nur
+Phone: TEL;CELL:+60
+==================== 
+Name: FN:Maryamm
+Phone: TEL;CELL:+971 50 385 1927
+==================== 
+Name: FN:Zoh
+Phone: END:VCARD
+==================== 
+Name: FN:Michael
+Phone: TEL;CELL:011 2918 1735
+==================== 
+Name: FN:Huawei Customer Service
+Phone: TEL;CELL:02142000
+==================== 
+Name: =A7=D9=86=D9=85;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A7=D8=B1=DB=8C=DA=A9=D9=87=20=D9=84=DB=8C=D9=84=D8=A7=20=D8=AE=D8=
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B4=D9=87=D8=A7=D8=A8=DB=8C
+Phone: TEL;CELL:0917 117 0230
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B3=DB=8C=D8=AF=20=D8=AE=D8=A7=D9=86=D9=85
+Phone: TEL;CELL:+98 917 688 3297
+==================== 
+Name: =D8=AA=DB=8C;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=85=D8=B4=D8=A7=D9=88=D8=B1=D9=87=20=D8=A8=D9=87=D8=B2=DB=8C=D8=B3=
+==================== 
+Name: =D8=B1=D9=87=20=D8=A8=D9=87=D8=B2=DB=8C=D8=B3=D8=AA=DB=8C;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B9=D8=A8=D8=AF=D8=A7=D9=84=D9=87=DB=8C=20=D9=85=D8=B4=D8=A7=D9=88=
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AE=D8=A7=D9=86=D9=85=20=D8=AA=D8=A7=D8=AC=DB=8C
+Phone: TEL;CELL:0917 963 2836
+==================== 
+Name: =A7=D8=B1=D9=87=20=32;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A7=D9=85=DB=8C=D8=B1=20=D9=85=D8=AD=D9=85=D8=AF=20=D8=B4=D9=85=D8=
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B4=DB=8C=D8=AF=D8=A7
+Phone: TEL;CELL:0910 267 2968
+==================== 
+Name: ;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A2=DA=98=D8=A7=D9=86=D8=B3=20=D9=87=D9=85=D8=B3=D8=A7=DB=8C=D9=87=
+==================== 
+Name: =B2=D9=84;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AE=D8=A7=D9=86=D9=85=20=D9=86=D8=B7=D8=A7=D9=82=20=D9=85=D9=86=D8=
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B7=D8=A8=20=D8=B3=D9=86=D8=AA=DB=8C=20=D9=85=D8=B4=D9=87=D8=AF
+Phone: TEL;CELL:0935 265 3948
+==================== 
+Name: =B7=D8=A8=20=D8=B3=D9=86=D8=AA=DB=8C;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AF=DA=A9=D8=AA=D8=B1=20=DA=A9=D8=B3=D9=85=D8=A7=DB=8C=DB=8C=20=D8=
+==================== 
+Name: =B7=D9=84=D8=B3;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AA=D8=A7=DA=A9=D8=B3=DB=8C=20=D8=AA=D9=84=D9=81=D9=86=20=D8=A7=D8=
+==================== 
+Name: =D9=BE=D8=B2=D8=B4=DA=AF=DB=8C;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=DA=A9=D9=84=DB=8C=D9=86=DB=8C=DA=A9=20=D8=AF=D9=86=D8=AF=D8=A7=D9=86=
+==================== 
+Name: FN:Javanmardi Ali
+Phone: TEL;CELL:09365023156
+==================== 
+Name: FN:Lw
+Phone: TEL;CELL:004917667996405
+==================== 
+Name: FN:Hossein Emami
+Phone: TEL;CELL:0912 298 8953
+==================== 
+Name: FN:Noor
+Phone: TEL;CELL:0713 229 7029
+==================== 
+Name: FN:Pirooz Home
+Phone: TEL;CELL:0713 234 2970
+==================== 
+Name: FN:Niloofar Pezhhan
+Phone: TEL;CELL:09035092066
+==================== 
+Name: FN:Iman Mohebbol Hoseini
+Phone: TEL;CELL:07136468068
+==================== 
+Name: =AE=D8=A7=D8=A8=D8=B1=D8=A7=D8=AA=20=D8=AA=D9=87=D8=B1=D8=A7=D9=86;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AE=D8=A7=D9=86=D9=85=20=D8=B1=D8=B6=D8=A7=DB=8C=DB=8C=20=D9=85=D8=
+==================== 
+Name: FN:Mohammad Azadi
+Phone: TEL;CELL:09383687855
+==================== 
+Name: FN:Sadeghi Danial
+Phone: ORG:Mechanics
+==================== 
+Name: FN:Mohammad Dehghanipour
+Phone: X-GROUP-MEMBERSHIP:My Contacts
+==================== 
+Name: FN:Iman Mohhebbol Hoseini
+Phone: TEL;CELL:0938 725 5336
+==================== 
+Name: FN:Majid Eghbal
+Phone: TEL;CELL:+989339583449
+==================== 
+Name: =81;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=82=D8=A7=D8=B9=D8=AF=DB=8C=20=DA=86=D8=B1=D9=85=20=DA=A9=DB=8C=D9=
+==================== 
+Name: FN:Maryam
+Phone: TEL;CELL:00 971503851927
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B4=D9=87=D8=AF=D8=AE=D8=AA=20=D9=85=D9=88=D8=B0=D9=86
+Phone: TEL;CELL:+98 917 708 9581
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AE=D8=A7=D9=86=D9=85=20=D9=85=D8=B9=D8=AF=D9=84=DB=8C
+Phone: TEL;CELL:0917 100 3748
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B4=D9=88=D8=B1=DB=8C
+Phone: TEL;CELL:+64 22 630 8788
+==================== 
+Name: FN:Zohrehh
+Phone: TEL;CELL:00989302099969
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=88=DA=A9=DB=8C=D9=84=20=D8=B2=D9=86
+Phone: TEL;CELL:09173168565
+==================== 
+Name: FN:Farshad Zare
+Phone: TEL;CELL:+989398194725
+==================== 
+Name: FN:Taleb Sedighi
+Phone: TEL;CELL:09177004886
+==================== 
+Name: FN:Sam Asadi
+Phone: TEL;CELL:09172122131
+==================== 
+Name: FN:Behdad
+Phone: TEL;CELL:+98 921 020 3606
+==================== 
+Name: FN:Mrs Niknezhad
+Phone: TEL;CELL:09123264916
+==================== 
+Name: FN:Afzali
+Phone: TEL;CELL:0917 703 1577
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AE=D8=A7=D9=86=D9=85=20=D9=86=D8=B7=D8=A7=D9=82
+Phone: TEL;CELL:0903 948 3307
+==================== 
+Name: FN:Mehdi Asadi
+Phone: TEL;CELL:0917 113 1611
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=85=D9=86=D8=B5=D9=88=D8=B1=D9=87
+Phone: TEL;CELL:+98 917 700 7001
+==================== 
+Name: FN:Naghibipoor Driver
+Phone: TEL;CELL:0917 711 0152
+==================== 
+Name: FN:Ahmad Hajilari
+Phone: TEL;CELL:+98 911 514 9005
+==================== 
+Name: FN:Fci
+Phone: TEL;CELL:+1 214-695-8803
+==================== 
+Name: FN:sedigh
+Phone: TEL;CELL:09177004886
+==================== 
+Name: FN:Ali Seraji
+Phone: TEL;CELL:+989370158850
+==================== 
+Name: FN:Feredei
+Phone: TEL;CELL;PREF:09390874024
+==================== 
+Name: FN:Arash Hashemi
+Phone: TEL;CELL;PREF:09375315084
+==================== 
+Name: FN:Mahboobe Paidar
+Phone: TEL;CELL;PREF:09174394305
+==================== 
+Name: FN:Niloofar Trki
+Phone: TEL;CELL:09301688246
+==================== 
+Name: FN:Amir Mohammad Tavakkoli
+Phone: TEL;CELL:+989173898336
+==================== 
+Name: FN:Dr Taheri
+Phone: TEL;CELL:0917 102 1361
+==================== 
+Name: FN:Sefia
+Phone: TEL;CELL:09177051955
+==================== 
+Name: FN:Sr_hossein Dehghanipour
+Phone: TEL;CELL;PREF:+98 936 617 8285
+==================== 
+Name: FN:Dr. Morteza Keshtkaran
+Phone: TEL;CELL:+989177125780
+==================== 
+Name: FN:Masoume
+Phone: TEL;CELL:+989129308387
+==================== 
+Name: FN:Erfan Mohebbol Hoseini
+Phone: TEL;CELL:0917 052 5426
+==================== 
+Name: =B2=20=D9=85=D8=B9=D9=85=D8=A7=D8=B1=DB=8C;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AA=D8=BA=DB=8C=DB=8C=D8=B1=20=D8=B3=D8=A7=D8=B9=D8=AA=20=D8=A2=D8=
+==================== 
+Name: FN:Armin Mansoori
+Phone: TEL;CELL:0917 900 4532
+==================== 
+Name: FN:Ah Zare
+Phone: TEL;CELL:0936 051 1022
+==================== 
+Name: FN:Ahmad Biglary
+Phone: TEL;CELL:+989123231271
+==================== 
+Name: FN:Ali Karimi
+Phone: TEL;CELL:+98 916 242 1607
+==================== 
+Name: FN:Ali Zarei
+Phone: TEL;CELL:0917 112 7336
+==================== 
+Name: FN:Alireza Khaleghi The  Olika
+Phone: TEL;CELL:0933 669 4687
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=41=6D=69=6E=20=42=61=67=68=62=61=6E=F0=9F=8C=B4
+Phone: TEL;CELL:+98 939 468 6676
+==================== 
+Name: FN:Amin Abedini
+Phone: TEL;CELL;PREF:+989366362550
+==================== 
+Name: FN:Amin Golkarfard
+Phone: TEL;CELL:0917 319 1093
+==================== 
+Name: FN:Amin kazemi
+Phone: TEL;CELL;PREF:+98 935 229 9770
+==================== 
+Name: FN:Amir Gazni
+Phone: TEL;CELL:09377639185
+==================== 
+Name: FN:Amir Ahmad  Rahimi
+Phone: TEL;CELL:09217245296
+==================== 
+Name: FN:Amir Hosein Musavi Nasab
+Phone: TEL;CELL:0939 993 9595
+==================== 
+Name: FN:Amir Hossein Gharaati
+Phone: TEL;CELL:+98 936 572 3124
+==================== 
+Name: FN:Amirerfan Siamaki
+Phone: TEL;CELL:09384755090
+==================== 
+Name: FN:Amirhossein Sharifi
+Phone: TEL;CELL:0936 960 4477
+==================== 
+Name: FN:Angeal
+Phone: TEL;CELL;PREF:+98 937 356 7131
+==================== 
+Name: FN:Arash Kamali
+Phone: TEL;CELL:09171121675
+==================== 
+Name: FN:Aref Honarparvaran
+Phone: TEL;CELL;PREF:0935 342 2035
+==================== 
+Name: FN:Arman Rezassl
+Phone: TEL;CELL:09306493894
+==================== 
+Name: FN:Asad Alipoor
+Phone: TEL;CELL;PREF:09365911783
+==================== 
+Name: FN:BlueO
+Phone: END:VCARD
+==================== 
+Name: FN:Dr. Mokhtari
+Phone: TEL;CELL:09171281996
+==================== 
+Name: FN:Dr Raji
+Phone: TEL;CELL:0912 226 3341
+==================== 
+Name: FN:Ehsan Moosavipour
+Phone: TEL;CELL:+98 917 736 8471
+==================== 
+Name: FN:Elahe Monfared
+Phone: TEL;CELL:+98 917 788 2815
+==================== 
+Name: FN:Erfan Bahaoddin
+Phone: TEL;CELL:+989224962197
+==================== 
+Name: FN:Faraz
+Phone: TEL;CELL:0937 535 8224
+==================== 
+Name: FN:Farshad Emadi
+Phone: TEL;CELL:0917 424 3278
+==================== 
+Name: FN:Feredi
+Phone: TEL;CELL:0939 087 4024
+==================== 
+Name: FN:Hamidian
+Phone: TEL;CELL:0917 406 2488
+==================== 
+Name: FN:Hani Dorali
+Phone: TEL;CELL;PREF:+98 933 828 2076
+==================== 
+Name: FN:Hanie Biglary
+Phone: TEL;CELL:+98 939 726 5917
+==================== 
+Name: FN:Haqshenas
+Phone: TEL;CELL:09221785942
+==================== 
+Name: FN:Hashimoto
+Phone: TEL;CELL;PREF:09375315084
+==================== 
+Name: FN:Hassan Abbasi
+Phone: TEL;CELL:+989399216184
+==================== 
+Name: FN:Hirad Babayan
+Phone: TEL;CELL;PREF:+98 917 739 9200
+==================== 
+Name: FN:Hossein Hedayati
+Phone: TEL;CELL:+989367059655
+==================== 
+Name: FN:Hosseinreza Akbari
+Phone: TEL;CELL;PREF:+98 917 189 0636
+==================== 
+Name: FN:Javan Supp
+Phone: TEL;CELL;PREF:0936 502 3156
+==================== 
+Name: FN:Kave
+Phone: END:VCARD
+==================== 
+Name: FN:Kave
+Phone: END:VCARD
+==================== 
+Name: FN:Kave
+Phone: TEL;CELL:+98 917 491 6550
+==================== 
+Name: FN:Laya Yaghoubi
+Phone: TEL;CELL:+98 917 706 8206
+==================== 
+Name: FN:Lone Wolf
+Phone: TEL;CELL;PREF:+49 176 67996405
+==================== 
+Name: FN:Lotfipor(mobli)
+Phone: TEL;CELL:0917 308 8227
+==================== 
+Name: FN:Mahboobe
+Phone: TEL;CELL:+98 921 332 8961
+==================== 
+Name: FN:Mahta Moshkel Gosha
+Phone: TEL;CELL:+98 917 021 1754
+==================== 
+Name: FN:Majid Egh
+Phone: TEL;CELL;PREF:+1 416-843-2971
+==================== 
+Name: FN:Mamoot
+Phone: TEL;CELL:09377734367
+==================== 
+Name: FN:Mani
+Phone: TEL;CELL;PREF:0939 967 4646
+==================== 
+Name: FN:Mansoori
+Phone: END:VCARD
+==================== 
+Name: FN:Mehdi Ariaei
+Phone: TEL;CELL:0917 878 9249
+==================== 
+Name: FN:Mehdi Orangi
+Phone: TEL;CELL;PREF:+98 917 884 2098
+==================== 
+Name: FN:Mehdi Orangi
+Phone: END:VCARD
+==================== 
+Name: FN:Mehdi Orangi
+Phone: END:VCARD
+==================== 
+Name: FN:Mehdi Orangi
+Phone: END:VCARD
+==================== 
+Name: FN:Mersad Khalafi
+Phone: TEL;CELL:0938 939 1124
+==================== 
+Name: FN:Mike Mike
+Phone: TEL;HOME:09362362080
+==================== 
+Name: FN:Milad Barooni
+Phone: TEL;CELL:+989364442931
+==================== 
+Name: FN:Mohammad Mostafaee
+Phone: TEL;CELL:+98 930 746 8674
+==================== 
+Name: FN:Mohammad Bahmani
+Phone: TEL;CELL;PREF:0936 027 8286
+==================== 
+Name: FN:Mohammad Baba Baba Jafary
+Phone: TEL;CELL;PREF:09360366191
+==================== 
+Name: FN:Mohammad Hossein Hashemi
+Phone: TEL;CELL:0938 794 6969
+==================== 
+Name: FN:Mohammad Hossein Roozitalab
+Phone: TEL;CELL:+98 938 170 9821
+==================== 
+Name: FN:Mohammad Jimbo Dehghanipour
+Phone: TEL;CELL:09177127931
+==================== 
+Name: FN:Mom
+Phone: TEL;CELL;PREF:0917 106 5337
+==================== 
+Name: FN:Mostafa Zivary
+Phone: TEL;CELL:+989164176989
+==================== 
+Name: FN:Mostafa Shoorangiz
+Phone: TEL;CELL;PREF:0939 677 3589
+==================== 
+Name: FN:Mostafa Aliaskari Omran
+Phone: TEL;CELL:0938 267 4099
+==================== 
+Name: FN:Mr.Min Roosta (Omran)
+Phone: TEL;CELL:0917 539 9052
+==================== 
+Name: FN:Nazanin Taheri
+Phone: TEL;CELL:+98 937 152 1041
+==================== 
+Name: FN:Neda Karami
+Phone: TEL;CELL:+989380771828
+==================== 
+Name: FN:Negin Shiravani
+Phone: TEL;CELL:+98 917 247 2969
+==================== 
+Name: FN:Niazmand
+Phone: TEL;CELL;PREF:09330755079
+==================== 
+Name: FN:Nilan Sobhdam
+Phone: TEL;CELL:+989399184536
+==================== 
+Name: FN:Niloofar Torki
+Phone: TEL;CELL:0930 168 8246
+==================== 
+Name: FN:Nurain
+Phone: TEL;CELL:+60 11-1471 2572
+==================== 
+Name: FN:Pai
+Phone: TEL;CELL:09174394305
+==================== 
+Name: FN:Parvin Kalantar
+Phone: TEL;CELL:+98 917 529 9010
+==================== 
+Name: FN:Pirooz Amirreza
+Phone: TEL;CELL;PREF:09390076134
+==================== 
+Name: FN:Puja
+Phone: TEL;CELL;PREF:+46 73 517 10 38
+==================== 
+Name: FN:Purya Nasiri
+Phone: TEL;CELL:+98 935 086 4781
+==================== 
+Name: FN:Ramin Choobine
+Phone: TEL;CELL:0930 310 3161
+==================== 
+Name: FN:Rayehe Tabataii
+Phone: TEL;CELL:+98 917 581 9785
+==================== 
+Name: FN:Reza God
+Phone: TEL;CELL:0933 777 0474
+==================== 
+Name: FN:Reza Basiri
+Phone: TEL;CELL;PREF:0917 392 9719
+==================== 
+Name: FN:Sadegh Shahrizi
+Phone: TEL;CELL:0917 259 3381
+==================== 
+Name: FN:Sadegh Maghare
+Phone: X-ANDROID-CUSTOM;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:vnd.android.cursor.item/nickname;=D9=83=D9=88=D9=83=D8=A8=20=D9=85=D8=BA=D8=A7=D8=B2=D9=87=2C=D9=82=D8=
+==================== 
+Name: FN:Sahar Mtshr
+Phone: TEL;CELL;PREF:0930 346 8337
+==================== 
+Name: FN:Saina Ahmadi
+Phone: TEL;CELL:+989017910617
+==================== 
+Name: FN:Saina Nematollahi
+Phone: TEL;CELL:0991 756 2872
+==================== 
+Name: FN:Sajjadi
+Phone: TEL;CELL;PREF:0917 530 9020
+==================== 
+Name: FN:Sara Limooii
+Phone: TEL;CELL:+98 917 088 8747
+==================== 
+Name: FN:Shahin Zare
+Phone: TEL;CELL:09309995515
+==================== 
+Name: FN:Shirin mohebbi
+Phone: END:VCARD
+==================== 
+Name: FN:Sina Azimi
+Phone: TEL;CELL:0938 753 2595
+==================== 
+Name: FN:Tdm
+Phone: TEL;CELL:090-276-68696
+==================== 
+Name: FN:Toorandokht
+Phone: TEL;CELL:0912 144 7401
+==================== 
+Name: FN:Vahid Torabi
+Phone: TEL;CELL;PREF:0939 820 9986
+==================== 
+Name: FN:Wtf2
+Phone: TEL;CELL:09374442931
+==================== 
+Name: FN:Yarahmadi
+Phone: TEL;CELL:+989375353585
+==================== 
+Name: FN:Zahra Mohammadkhani
+Phone: TEL;CELL:+98 917 221 3026
+==================== 
+Name: FN:shirin mohebbi
+Phone: END:VCARD
+==================== 
+Name: FN:shirin mohebbi
+Phone: TEL;X-Telegram;PREF:+989379242532
+==================== 
+Name: FN:sina vafadar
+Phone: TEL;CELL:+98 921 722 0654
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A7=D9=85=DB=8C=D8=B1
+Phone: TEL;CELL:0937 157 8641
+==================== 
+Name: =A8=DB=8C=D9=88=D9=86;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A7=D9=85=DB=8C=D8=B1=20=D9=85=D8=AD=D9=85=D8=AF=20=D8=B1=D8=AC=D8=
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A7=DB=8C=D8=B1=D8=A7=D9=86=DB=8C=20=D9=85=D9=88=D8=AF=D9=85
+Phone: TEL;CELL:0912 345 6583
+==================== 
+Name: ;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A8=D9=87=D8=B1=D8=A7=D9=85=DB=8C=20=D9=85=D8=B4=D8=A7=D9=88=D8=B1=
+==================== 
+Name: =20=28=32=29;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=A8=D9=87=D8=B1=D8=A7=D9=85=DB=8C=20=D9=85=D8=B4=D8=A7=D9=88=D8=B1=
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=AD=D8=B3=DB=8C=D9=86=20=D8=B1=D8=AC=D8=A8=DB=8C=D9=88=D9=86
+Phone: TEL;CELL:0935 501 8957
+==================== 
+Name: ;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D8=B1=D8=AC=D8=A8=DB=8C=D9=88=D9=86=20=D9=81=D8=A7=D8=B7=D9=85=D9=87=
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=82=D8=A7=D8=B9=D8=AF=20=D8=B4=D8=B1=D9=81
+Phone: TEL;CELL:0917 829 5979
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=85=D8=B1=DB=8C=D9=85=20=D8=AE=D8=A7=D9=84=D9=87
+Phone: TEL;CELL:0912 681 4505
+==================== 
+Name: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=85=D8=B5=D8=B7=D9=81=DB=8C=20=D8=B4=D9=88=D8=B1=D8=A7=D9=86=DA=AF=
+Phone: =DB=8C=D8=B2
+==================== 
+Name: =B1=D8=B3=D8=AA=D8=A7=D8=B1=DB=8C;;;
+Phone: FN;CHARSET=UTF-8;ENCODING=QUOTED-PRINTABLE:=D9=85=D8=B9=D8=B5=D9=88=D9=85=D9=87=20=D8=A8=D8=B1=D8=A7=20=D9=BE=D8=
+==================== 
+Name: FN:Yasamin
+Phone: TEL;CELL:+98 917 107 7606
+==================== 
+Name: FN:Amuzesh Tarbiat
+Phone: TEL;CELL:071 3613 4656
+==================== 
+Name: FN:Abbas Sabet
+Phone: TEL;CELL:0922 413 6975
+==================== 
+Name: FN:Sajad Mocut0
+Phone: TEL;CELL:0901 763 9504
+==================== 
+Name: FN:sepide sauyadkooh
+Phone: END:VCARD
+==================== 
+Name: FN:Sepide Sayyad kooh
+Phone: TEL;CELL:0936 742 6384
+==================== 
+Name: FN:Maryam Arianfar
+Phone: TEL;CELL:0922 367 6951
+==================== 
+Name: FN:Kami
+Phone: TEL;CELL:0936 810 3173
+==================== 
+Name: FN:Who The Fuck?
+Phone: TEL;CELL:+989212496031
+==================== 
+Name: FN:Mohammad Hossein Badiee
+Phone: TEL;CELL;PREF:0917 040 9546
+==================== 
+Name: FN:mahta
+Phone: TEL;CELL:09170211754
+==================== 
+Name: FN:kazemi
+Phone: TEL;CELL:+989176062135
+==================== 
+Name: FN:azimi
+Phone: TEL;CELL:09387532595
+==================== 
+Name: FN:mike
+Phone: TEL;HOME:09362362080
+==================== 
+Name: FN:Shojaiinia
+Phone: TEL;CELL:+989196673709
+==================== 
+Name: FN:Shirin
+Phone: TEL;CELL:09173018487
+==================== 
+Name: FN:Zahra Jamali 2
+Phone: TEL;CELL:+989302024019
+==================== 
+Name: FN:Sam
+Phone: TEL;CELL:+989172122131
+==================== 
+Name: FN:niknezhad
+Phone: TEL;CELL:09123264916
+==================== 
+Name: FN:Kimia Soroush
+Phone: TEL;CELL:+989308567613
+==================== 
+Name: FN:Golnaz Mesbahi
+Phone: TEL;CELL:+989364533444
+==================== 
+Name: FN:hani veisi
+Phone: TEL;CELL:09173434371
+==================== 
+Name: FN:Dorsa Moti
+Phone: TEL;CELL:+989177298701
+==================== 
+Name: FN:Nima Iji
+Phone: TEL;CELL:+989308193352
+==================== 
+Name: FN:Fr Baradaran
+Phone: TEL;CELL:+989103281795
+==================== 
+Name: FN:Sana
+Phone: TEL;CELL:09301216461
+==================== 
+Name: FN:sb
+Phone: TEL;CELL:09372033422
+==================== 
+Name: FN:Khajoo
+Phone: TEL;CELL:+989132139380
+==================== 
+Name: FN:allah akbari
+Phone: TEL;CELL:+989170580458
+==================== 
+Name: FN:Dr Ali Hamze
+Phone: TEL;CELL:09123360810
+==================== 
+Name: FN:mohsen ebi
+Phone: TEL;CELL:09026666878
+==================== 
+Name: FN:Erfan Nazeri
+Phone: TEL;CELL:+989366747019
+==================== 
+Name: FN:Ehsan Kiani
+Phone: TEL;CELL:+989332523877
+==================== 
+Name: FN:Atousa
+Phone: TEL;CELL:+989176303469
+==================== 
+Name: FN:Ava Mozaffari
+Phone: TEL;CELL:09335814586
+==================== 
+Name: FN:kimia ghoreish
+Phone: TEL;CELL:+989131547049
+==================== 
+Name: FN:rahmani
+Phone: TEL;CELL:+989378369442
+==================== 
+Name: FN:Razie Keshavar
+Phone: TEL;CELL:+989175175464
+==================== 
+Name: FN:behruzi
+Phone: TEL;CELL:+989368578152
+==================== 
+Name: FN:Saeed Heydari
+Phone: TEL;CELL:09172278121
+==================== 
+Name: FN:Taha Aliabadi
+Phone: TEL;CELL:+989361180188
+==================== 
+Name: FN:Sherafat
+Phone: TEL;CELL:+989174050567
+==================== 
+Name: FN:Zahra Jamali
+Phone: TEL;CELL:+989172434549
+==================== 
+Name: FN:EBRAHIMI
+Phone: TEL;CELL:09171129523
+==================== 
+Name: FN:Soroush Samani
+Phone: TEL;CELL:+989022020626
+==================== 
+Name: FN:Mari Alaii
+Phone: TEL;CELL:09170211851
+==================== 
+Name: FN:Shirin
+Phone: TEL;CELL:+989173018487
+==================== 
+Name: FN:Zahra Jamali 2
+Phone: TEL;CELL:+989302024019
+==================== 
+Name: FN:Nima Iji
+Phone: TEL;CELL:+989308193352
+==================== 
+Name: FN:Ehsan Kiani
+Phone: TEL;CELL:+989332523877
+==================== 
+Name: FN:Razie Keshavar
+Phone: TEL;CELL:+989175175464
+==================== 
+Name: FN:Erfan Nazeri
+Phone: TEL;CELL:+989366747019
+==================== 
+Name: FN:Taha Aliabadi
+Phone: TEL;CELL:+989361180188
+==================== 
+Name: FN:Atousa
+Phone: TEL;CELL:+989176303469
+==================== 
+Name: FN:Sam
+Phone: TEL;CELL:+989172122131
+==================== 
+Name: FN:Sherafat
+Phone: TEL;CELL:+989174050567
+==================== 
+Name: FN:Sherafat
+Phone: TEL;CELL:09174050567
+==================== 
+Name: FN:Saeed Heydari
+Phone: TEL;CELL:09172278121
+==================== 
+Name: FN:Fr Baradaran
+Phone: TEL;CELL:+989103281795
+==================== 
+Name: FN:Golnaz Mesbahi
+Phone: TEL;CELL:+989364533444
+==================== 
+Name: FN:Dorsa Moti
+Phone: TEL;CELL:+989177298701
+==================== 
+Name: FN:EBRAHIMI
+Phone: TEL;CELL:09171129523
+==================== 
+Name: FN:Khajoo
+Phone: TEL;CELL:+989132139380
+==================== 
+Name: FN:niknezhad
+Phone: TEL;CELL:+989123264916
+==================== 
+Name: FN:kimia ghoreish
+Phone: TEL;CELL:+989131547049
+==================== 
+Name: FN:hani veisi
+Phone: TEL;CELL:09173434371
+==================== 
+Name: FN:allah akbari
+Phone: TEL;CELL:+989170580458
+==================== 
+Name: FN:sb
+Phone: TEL;CELL:09372033422
+==================== 
+Name: FN:mahta
+Phone: TEL;CELL:09170211754
+==================== 
+Name: FN:kazemi
+Phone: TEL;CELL:09176062135
+==================== 
+Name: FN:rahmani
+Phone: TEL;CELL:+989378369442
+==================== 
+Name: FN:mohsen ebi
+Phone: TEL;CELL:09026666878
+==================== 
+Name: FN:Sana
+Phone: TEL;CELL:09301216461
+==================== 
+Name: FN:azimi
+Phone: TEL;CELL:+989387532595
+==================== 
+Name: FN:behruzi
+Phone: TEL;CELL:+989368578152
+==================== 
+Name: FN:mike
+Phone: TEL;CELL:09362362080
+==================== 
+Name: FN:Mari Alaii
+Phone: TEL;CELL:09170211851
+==================== 
+Name: FN:Dr.Ali Hamze
+Phone: TEL;CELL:09123360810
+==================== 
+Name: FN:Shojaiinia
+Phone: TEL;CELL:+989196673709
+==================== 
+Name: FN:Soroush Samani
+Phone: TEL;CELL:+989022020626
+==================== 
+Name: FN:Ava Mozaffari
+Phone: TEL;CELL:09335814586
+==================== 
+Name: FN:Zahra Jamali
+Phone: TEL;CELL:+989172434549
+==================== 
+Name: FN:Kimia Soroush
+Phone: TEL;CELL:+989308567613
+==================== 
+Name: FN:Tarlan Khandashti
+Phone: END:VCARD
+==================== 
+Name: FN:Zoha ansari
+Phone: END:VCARD
+==================== 
+Name: FN:Sepehr Javid
+Phone: TEL;CELL:+989360625961
+==================== 
