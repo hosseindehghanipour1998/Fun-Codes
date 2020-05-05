@@ -5,76 +5,15 @@ Created on Sat Apr 18 20:47:13 2020
 @aut
 hor: Hossein
 """
+from Writer import Writer
 from os import system
 wordFilename = "words.txt"
 password = 123
 
 
-def addToFile(word,fileName):
-    try:
-        f = open(fileName, "a")
-        f.write(str(word) + "\n")
-        f.close()
-    except:
-        print("File Not Found")
-
-def createFile(fileName):
-    f = open(fileName , "w+")
-    f.close()
-
-def readFile(fileName):
-    try:
-        f = open(fileName,"r")
-        publicWords = f.read().split('\n')
-        f.close()
-        return publicWords,True
-
-    except:
-        return [],False
-
-def test():
-    for i in range (100,200):
-        addToFile(i,wordFilename)
-
-def wordExists(word):
-    wordsList,foundTheFile = readFile(wordFilename)
-    if(foundTheFile == True):
-        if str(word) in wordsList :
-            return True
-        return False
-    createFile(wordFilename)
-    return False
-
-def getLen():
-    wordsList,foundTheFile = readFile(wordFilename)
-    return len(wordsList)
-
-def backup(fromFilename):
-    fileParts = fromFilename.split(".")
-    backupFileName = str(fileParts[0]) + "-BackUp." + str(fileParts[1])
-    createFile(backupFileName)
-    arrList,status = readFile(fromFilename)
-    for item in arrList :
-        addToFile(item,backupFileName)
-    print("Backup File Created")
-
-def fileToArray(fileName):
-    arr,stat = readFile(fileName)
-    return arr
-
-def arrayToFile(arr , fileName):
-    createFile(fileName)
-    for item in arr :
-        addToFile(item,fileName)
-
-def delete(indexNo,fileName):
-        lines = fileToArray(fileName)
-        del lines[indexNo]
-        arrayToFile(lines, fileName)
-
 
 def start():
-
+    writer = Writer(wordFilename)
     while True :
         i = getLen() + 1
         print(str(i) + ": ")
