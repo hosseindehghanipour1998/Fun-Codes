@@ -112,3 +112,14 @@ class Writer :
 
     def clearFile(self):
         self.__createFile(self.filePath)
+
+    def removeRedundantData(self):
+        lines = self.readFile()
+        newList = []
+        for item in lines :
+            if ( not item in newList):
+                newList.append(item)
+        self.clearFile()
+
+        for item in newList :
+            self.append(item)

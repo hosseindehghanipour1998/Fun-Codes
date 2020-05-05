@@ -11,7 +11,9 @@ from Writer import Writer
 wordFilename = "words.txt"
 password = 123
 
-
+def testRedundancyRemover():
+    writer = Writer("test2.txt")
+    writer.removeRedundantData()
 
 def start():
     writer = Writer(wordFilename)
@@ -55,4 +57,5 @@ def start():
     input()
 
 
-start()
+#start()
+testRedundancyRemover()
