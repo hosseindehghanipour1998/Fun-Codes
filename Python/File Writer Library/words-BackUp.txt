@@ -558,4 +558,41 @@ swarm
 labnese(d)
 obey(d)
 employee(d)
+envelope(d)
+invoke => invocation
+kndle
+hoist
+peg
+oxen vs ox
+flank
+deflect
+vengeance(d)
+ascertain
+wallow
+quay
+excitement(d)
+exercise(d)
+crusade
+dialect
+gorge
+adversary
+earnest
+gallop
+rudimentary
+gandolas
+canopy
+pilfering
+treacherous
+buffoon
+my stall has been destroyed, my goods ruined. I demand a compensation.
+Suddenly an overwhelming sense of accomplishment flooded over me.
+That was the first moment I recall feeling success.
+Success is working my butt off every day doing what I love to do.
+Buying this book is an indication that you are serious about taking your life to a new level and attaining all the world has to offer you.
+The universe will offer you abundant opportunities to blossom into the new you.
+you dont pay attention to anything that goes on in this house.
+necessity(d)
+encourage
+testimony
+disappointment
 
