@@ -3,10 +3,10 @@ class Writer :
 
     def __init__(self,filePath):
         self.filePath = filePath
-        if ( self.fileExists() == True):
+        if ( self.__fileExists() == True):
             print("Handle Binded With Existing File Named : " + str(self.filePath))
         else :
-            self.createFile()
+            self.__createFile(self.filePath)
             print("New File Named " + str(self.filePath) + " Created !")
 
 
@@ -20,9 +20,10 @@ class Writer :
             print("File Not Found")
 
 
-    def createFile(self):
-        f = open(self.filePath, "w+")
+    def __createFile(fileName):
+        f = open(fileName, "w+")
         f.close()
+
 
 
 
@@ -37,7 +38,7 @@ class Writer :
 
 
 
-    def fileExists(self):
+    def __fileExists(self):
         try:
             f = open(self.filePath,"r")
             f.close()
@@ -48,26 +49,24 @@ class Writer :
 
 
 
-    def __constentExists(self,content):
-        wordsList = readFile(self.filePath)
+    def __contentExists(self,content):
+        wordsList = self.readFile()
         if(wordsList != None):
             if str(content) in wordsList :
                 return True
-            return False
-        createFile(self.filePath)
         return False
 
 
 
     def arrayToFile(self,arr):
-        if(fileExists(self.filePath) == False ):
-            createFile(self.filePath)
+        if(self.__fileExists(self.filePath) == False ):
+            self.__createFile(self.filePath)
         for item in arr :
-            append(item,self.filePath)
+            self.append(item,self.filePath)
 
 
-    def getLen():
-        wordsList = readFile(self.filePath)
+    def getLen(self):
+        wordsList = self.readFile()
         if(wordsList != None):
             return len(wordsList)
         return None
@@ -76,18 +75,18 @@ class Writer :
 
     def createBackup(self):
         fileParts = self.filePath.split(".")
-        backupFileName = str(fileParts[0]) + "-BackUp." + str(fileParts[1])
-        createFile(backupFileName)
-        arrList,status = readFile(self.filePath)
+        backupFileName = str(str(fileParts[0]) + "-BackUp." + str(fileParts[1]))
+        self.__createFile(backupFileName)
+        arrList = self.readFile()
         for item in arrList :
-            addToFile(item,backupFileName)
+            self.append(item)
         print("Backup File Created")
 
 
 
     def appendNoneRepeated(self,content):
-        if (__constentExists(content) != False ):
-            append(content)
+        if (self.__contentExists(content) != False ):
+            self.append(content)
             return True # Successful Operation
         else :
             return False # Word Already Exists
@@ -99,6 +98,9 @@ class Writer :
         for line in lines :
             for item in contentList:
                 lines.replace(item, "")
-        self.createFile()
+        self.__createFile(self.filePath)
         for item in lines :
             self.append(item)
+
+    def clearFile(self):
+        self.__createFile(self.filePath)
