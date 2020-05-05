@@ -20,7 +20,7 @@ class Writer :
             print("File Not Found")
 
 
-    def __createFile(fileName):
+    def __createFile(self,fileName):
         f = open(fileName, "w+")
         f.close()
 
@@ -79,8 +79,16 @@ class Writer :
         self.__createFile(backupFileName)
         arrList = self.readFile()
         for item in arrList :
-            self.append(item)
+            self.__append(backupFileName,item)
         print("Backup File Created")
+
+    def __append(self,backupFileName,string):
+        try:
+            f = open(backupFileName, "a")
+            f.write(str(string) + "\n")
+            f.close()
+        except:
+            print("File Not Found")
 
 
 
