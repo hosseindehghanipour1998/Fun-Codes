@@ -21,6 +21,7 @@ def start():
         i = writer.getLen() + 1
         print(str(i) + ": ")
         word = input()
+        filter(lambda a: a != "\n", word)
         # ====================================
         if(word[0] == "$"):
             word = word.split(" ")[1:]

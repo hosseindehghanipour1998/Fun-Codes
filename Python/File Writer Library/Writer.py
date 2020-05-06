@@ -94,7 +94,7 @@ class Writer :
 
 
     def appendNoneRepeated(self,content):
-        if (self.__contentExists(content) == False ):
+        if (self.__contentExists(content) == False and content != ""):
             self.append(content)
             return True # Successful Operation
         else :
@@ -104,6 +104,8 @@ class Writer :
 
     def deleteContent(self,contentList):
         lines = self.readFile()
+        filter(lambda a: a != " ", lines)
+        filter(lambda a: a != "", lines)
         newList = []
 
         for line in lines :
