@@ -103,11 +103,14 @@ class Writer :
 
     def deleteContent(self,contentList):
         lines = self.readFile()
+        newList = []
+
         for line in lines :
-            for item in contentList:
-                lines.replace(item, "")
+            if (not line in contentList ):
+                newList.append(line)
+
         self.__createFile(self.filePath)
-        for item in lines :
+        for item in newList :
             self.append(item)
 
     def clearFile(self):

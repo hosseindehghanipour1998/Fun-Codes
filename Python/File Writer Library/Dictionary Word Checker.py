@@ -22,15 +22,13 @@ def start():
         print(str(i) + ": ")
         word = input()
         # ====================================
-
-        #it's a Number
-        word + 1
-        #delete(word-1,wordFilename)
-        #system('cls')
-        #continue
-
+        if(word[0] == "$"):
+            word = word.split(" ")[1:]
+            filter(lambda a: a != " ", word)
+            writer.deleteContent(word)
+            
         # ====================================
-        if(word == "q"):
+        elif(word == "q"):
             break
         # ====================================
         elif(word == "p"):
@@ -57,5 +55,5 @@ def start():
     input()
 
 
-#start()
-testRedundancyRemover()
+start()
+#testRedundancyRemover()
