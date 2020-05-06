@@ -51,8 +51,9 @@ class Writer :
 
     def __contentExists(self,content):
         wordsList = self.readFile()
+        wordsList = map(lambda x:x.lower(),wordsList)
         if(wordsList != None):
-            if str(content) in wordsList :
+            if (str(content)).lower() in wordsList :
                 return True
         return False
 
@@ -93,7 +94,7 @@ class Writer :
 
 
     def appendNoneRepeated(self,content):
-        if (self.__contentExists(content) != False ):
+        if (self.__contentExists(content) == False ):
             self.append(content)
             return True # Successful Operation
         else :
