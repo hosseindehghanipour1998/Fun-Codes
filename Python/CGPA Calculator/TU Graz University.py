@@ -21,7 +21,7 @@ def removeX(lists):
     return filter(lambda a: a != "X", lists)
 
 def Calucalte(type1):
-    fileOperator = Writer("Scores - Copy.txt")
+    fileOperator = Writer("Scores.txt")
     scores = fileOperator.readFile()
     scores = removeX(scores)
     ScoresTuples = tuplize(scores)
@@ -39,51 +39,29 @@ def Calucalte(type1):
         
         GPA = 0 
         if (type1 == True):
-            if (score >= 0  and  score <= 59):
+            if (score >= 0  and  score < 60):
                 GPA = 0
-            elif (score >= 60  and  score <= 66):
+            elif (score >= 60  and  score < 67):
                 GPA = 1
             elif (score >= 67  and  score <= 69):
                 GPA = 1.3
-            elif (score >= 70  and  score <= 72):
+            elif (score >= 70  and  score < 73):
                 GPA = 1.7
-            elif (score >= 73  and  score <= 76):
+            elif (score >= 73  and  score < 77):
                 GPA = 2
-            elif (score >= 77  and  score <= 79):
+            elif (score >= 77  and  score < 80):
                 GPA = 2.3
-            elif (score >= 80  and  score <= 83):
+            elif (score >= 80  and  score < 84):
                 GPA = 2.7
-            elif (score >= 83  and  score <= 86):
+            elif (score >= 84  and  score < 87):
                 GPA = 3
-            elif (score >= 87  and  score <= 89):
+            elif (score >= 87  and  score < 90):
                 GPA = 3.3
-            elif (score >= 90  and  score <= 93):
+            elif (score >= 90  and  score < 94):
                 GPA = 3.7
             elif (score >= 94  and  score <= 100):
                 GPA = 4.0
-        else:
-            if (score >= 0  and  score <= 59):
-                GPA = 0
-            elif (score >= 60  and  score <= 66):
-                GPA = 1
-            elif (score >= 67  and  score <= 69):
-                GPA = 1.3
-            elif (score >= 70  and  score <= 72):
-                GPA = 1.7
-            elif (score >= 73  and  score <= 76):
-                GPA = 2
-            elif (score >= 77  and  score <= 79):
-                GPA = 2.3
-            elif (score >= 80  and  score <= 83):
-                GPA = 2.7
-            elif (score >= 83  and  score <= 86):
-                GPA = 3
-            elif (score >= 87  and  score <= 89):
-                GPA = 3.3
-            elif (score >= 90  and  score <= 93):
-                GPA = 3.7
-            elif (score >= 94  and  score <= 100):
-                GPA = 4.0
+
             
         print("Normal: " + str(scoresTuple[0]) + "  |Score : " + str(score) + "  | Unit : " + str(unit) + " | GPA: " + str(GPA))
         scoresSummation += GPA * unit
