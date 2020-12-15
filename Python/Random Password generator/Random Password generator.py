@@ -24,8 +24,8 @@ def passwordGenerator(passwordLen):
         counter += 1
     return password
 
-def main():
-    x = passwordGenerator(32)
+def main(y):
+    x = passwordGenerator(y)
     print( x )
 
-main()
+main(15)
