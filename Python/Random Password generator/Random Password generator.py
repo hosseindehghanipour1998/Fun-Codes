@@ -29,36 +29,33 @@ def main():
     carryOn = "Y"
     while(carryOn == "Y" or carryOn == "y"):
         fullList = []
+        
         # LowerCase
-        print("Include Lower Case Alphabets? (Y/N) ")
-        lowerCaseOption = input()
+        lowerCaseOption = input("Include Lower Case Alphabets? (Y/N) ")
         if(lowerCaseOption == "Y" or lowerCaseOption == "y"):
            fullList += lowerCase 
         
         #UpperCase
-        print("Include Upper Case Alphabets? (Y/N) ")
-        upperCaseOption = input()
+        upperCaseOption = input("Include Upper Case Alphabets? (Y/N) ")
         if(upperCaseOption == "Y" or upperCaseOption == "y"):
             fullList += upperCase
                     
         # MiscAlphabets
-        print("Include Miscellaneous Alphabets like [- , @ ]? (Y/N) ")
-        miscOption = input()
+        miscOption = input("Include Miscellaneous Alphabets like [- , @ ]? (Y/N) ")
         if(miscOption == "Y" or miscOption == "y"):
             fullList += miscList
             
         #Numbers    
-        print("Include Numbers ? (Y/N) ")
-        numbersOption = input()
+        numbersOption = input("Include Numbers ? (Y/N) ")
         if(numbersOption == "Y" or numbersOption == "y"):
             fullList += numbersList
         
         
-        lengthOfPass = input("Length of the Password ?")
+        lengthOfPass = input("Length of the Password ? ")
         x = passwordGenerator(int(lengthOfPass),fullList)
         print( x )
         
-        carryOn = input("Continue ? (Y/N)")
+        carryOn = input("Continue ? (Y/N) ")
         
 
 main()
